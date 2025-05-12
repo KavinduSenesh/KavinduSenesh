@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KavinduSenesh&label=Profile%20views&color=0e75b6&style=flat" alt="KavinduSenesh" />
+</p>
 
-<!--
-**KavinduSenesh/KavinduSenesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hey there, I'm <strong>Kavindu Senesh</strong> 👋
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">🇱🇰 A passionate Full-Stack Developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavinduSenesh&theme=github_dark" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KavinduSenesh&show_icons=true&theme=github_dark&count_private=true" />
+      <br />
+      <img src="https://streak-stats.demolab.com?user=KavinduSenesh&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduSenesh&theme=github_dark&layout=compact&langs_count=8&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+---
+
+🌱 I’m currently learning **Next.js**, **TypeScript**, and **Docker**
+
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindusenesh)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/KavinduSenesh)
+
+💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+🧠 Always curious. Always building.
+
