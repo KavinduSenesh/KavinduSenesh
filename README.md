@@ -17,7 +17,7 @@
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=KavinduSenesh&show_icons=true&theme=github_dark&count_private=true" />
       <br />
-      <img src="https://streak-stats.demolab.com?user=KavinduSenesh&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?username=KavinduSenesh&theme=github-dark&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduSenesh&theme=github_dark&layout=compact&langs_count=8&hide_border=false" />
