@@ -53,7 +53,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-----
+-----
 
 🧠 Always curious. Always building.
 
