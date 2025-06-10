@@ -25,7 +25,7 @@
   </tr>
 </table>
 
----
+----
 
 🌱 I’m currently learning **Next.js**, **TypeScript**, and **Docker**
 
