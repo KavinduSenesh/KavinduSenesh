@@ -29,7 +29,7 @@
 
 🌱 I’m currently learning **Next.js**, **TypeScript**, and **Docker**
 
-📫 How to reach me:  
+📫 How to reach me:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindusenesh)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/KavinduSenesh)
 
